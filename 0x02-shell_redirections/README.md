@@ -13,3 +13,4 @@
 12. What’s new-displays the 10 newest files in the current directory.
 13. Being unique is better than being perfect-akes a list of words as input and prints only words that appear exactly once.
 14. It must be in that file-displays lines containing the pattern “root” from the file /etc/passwd
+15. Count that word-displays the number of lines that contain the pattern “bin” in the file /etc/passwd

@@ -1,1 +1,1 @@
-0- Create  a script that switches the current user to the user betty.
+0. Hello World -prints “Hello, World”, followed by a new line to the standard output.

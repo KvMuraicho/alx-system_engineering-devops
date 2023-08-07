@@ -15,3 +15,4 @@
 14. It must be in that file-displays lines containing the pattern “root” from the file /etc/passwd
 15. Count that word-displays the number of lines that contain the pattern “bin” in the file /etc/passwd
 16. What's next-displays lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
+17. I hate bins-displays all the lines in the file /etc/passwd that do not contain the pattern “bin”.

@@ -11,3 +11,4 @@
 10. No more javascript-deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.
 11. Don't just count your directories, make your directories count-counts the number of directories and sub-directories in the current directory.
 12. What’s new-displays the 10 newest files in the current directory.
+13. Being unique is better than being perfect-akes a list of words as input and prints only words that appear exactly once.
